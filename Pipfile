@@ -9,6 +9,8 @@ google-api-python-client = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+statsmodels = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
